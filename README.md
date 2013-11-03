@@ -1,3 +1,3 @@
-FooCoin (FOO)
+HugoCoin (HGC)
 
 Blah, blah, blah.
